@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+
 
 # Streamlit app title
 st.title("Excel Data Analysis and Forecast")
